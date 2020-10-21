@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### Languages and Tools:
+
+[<img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_html.svg" width="80"/>]()
+
+
 <!--
 **chandez/chandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
