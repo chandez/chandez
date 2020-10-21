@@ -2,8 +2,7 @@
 
 ### Languages and Tools:
 
-[<img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_html.svg" width="50"/>]
-(https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_html.svg)
+[<img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_html.svg" width="50"/>](https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_html.svg)
 
 <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_html.svg" alt="html" width="50"/>
 
