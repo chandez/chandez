@@ -5,7 +5,7 @@
 
 ### Languages and Tools:
 
-
+<div>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg"  width="40" style="padding-right: 10px;"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg"  width="40" style="padding-right: 10px;"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"  width="40" style="padding-right: 10px;"/>
@@ -20,5 +20,6 @@
   <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_vscode.svg"  width="40" style="padding-right: 10px;"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg"  width="40" style="padding-right: 10px;"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/intellij/intellij-original.svg"  width="40" style="padding-right: 10px;"/>
+</div>
 
 <hr />
