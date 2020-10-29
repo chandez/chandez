@@ -1,7 +1,5 @@
-<hr />
-
-<h2 align="center">Hi 👋, I'm Chander Valle</h2>
-<h3 align="center">Professional Software Developer. Passionate about Science and BJJ practioner.</h3>
+<h3 align="center">Hi 👋, I'm Chander Valle</h3>
+<h4 align="center">Professional Software Developer. Passionate about Science and BJJ practioner.</h4>
 
 <hr />
 
