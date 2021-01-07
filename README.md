@@ -9,7 +9,7 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="C Sharp" width="40" style="padding-right: 10px"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="Java" width="40" style="padding-right: 10px"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="Javascript" width="40" style="padding-right: 10px"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="Typescript" width="40" style="padding-right: 10px"/>
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/1120bad531c928642d2ee49942be079a9fb0519b/icons/file_type_typescript_official.svg" alt="Typescript" width="40" style="padding-right: 10px"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" style="padding-right: 10px"/>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Framework" width="40" style="padding-right: 10px"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" style="padding-right: 10px"/>
