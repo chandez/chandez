@@ -18,8 +18,8 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" width="40" style="padding-right: 10px"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="40" style="padding-right: 10px"/>
   <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_vscode.svg" alt="Visual Studio Code" width="40" style="padding-right: 10px"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" style="padding-right: 10px"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" style="padding-right: 10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" style="padding-right: 10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" style="padding-right: 10px"/>
 </div>
 
 <hr />
