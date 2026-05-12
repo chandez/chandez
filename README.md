@@ -1,25 +1,39 @@
-<h3 align="center">Hi 👋, I'm Chander Valle</h3>
-<h4 align="center">Professional Software Developer. Passionate about Science and BJJ practioner.</h4>
+# Hi 👋, I'm Chander Valle
 
-<hr />
+Senior Software Engineer (8+ years) working on distributed systems, enterprise SaaS platforms, and high-throughput transactional applications.
 
-### Languages and Tools:
+I specialize in backend architecture and full-stack development with .NET, Angular, and Java, focused on building scalable and reliable systems.
 
-<div>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="C Sharp" width="40" style="padding-right: 10px"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" width="40" style="padding-right: 10px"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" width="40" style="padding-right: 10px"/>
-  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/1120bad531c928642d2ee49942be079a9fb0519b/icons/file_type_typescript_official.svg" alt="Typescript" width="40" style="padding-right: 10px"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular" width="40" style="padding-right: 10px"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="Spring Framework" width="40" style="padding-right: 10px"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL" width="40" style="padding-right: 10px"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" width="40" style="padding-right: 10px"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" width="40" style="padding-right: 10px"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" width="40" style="padding-right: 10px"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="40" style="padding-right: 10px"/>
-  <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_vscode.svg" alt="Visual Studio Code" width="40" style="padding-right: 10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" style="padding-right: 10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" style="padding-right: 10px"/>
-</div>
+Outside of software: science enthusiast and Brazilian Jiu-Jitsu practitioner.
 
-<hr />
+## Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,java,js,html,css" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,react,tailwind,bootstrap" />
+</p>
+
+### Backend & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,spring,nodejs" />
+</p>
+
+### Cloud & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,aws,docker,cloudflare,nginx" />
+</p>
+
+### Databases & Messaging
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,rabbitmq" />
+</p>
+
+### DevOps & Tooling
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,jenkins,grafana" />
+</p>
